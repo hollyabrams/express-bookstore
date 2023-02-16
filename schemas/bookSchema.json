@@ -28,7 +28,7 @@
             "default": "",
             "title": "The amazon_url Schema",
             "examples": [
-                "http://a.co/eobPtX2"
+                ""
             ]
         },
         "author": {
